@@ -21,7 +21,7 @@ I build macOS and iOS products used by enterprises to manage, secure, and contro
 
 ### Currently Building
 
-**[Money Manager](https://github.com/AN01KU/Money-Manager-iOS)** — A full-stack personal finance app. SwiftUI + SwiftData on iOS with an offline-first sync engine, and a [Go backend](https://github.com/AN01KU/Mon$
+**[Money Manager](https://github.com/AN01KU/Money-Manager-iOS)** — A full-stack personal finance app. SwiftUI + SwiftData on iOS with an offline-first sync engine, and a [Go backend](https://github.com/AN01KU/Money-Manager)
 
 ### At Work
 
