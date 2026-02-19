@@ -27,7 +27,7 @@ I build macOS and iOS products used by enterprises to manage, secure, and contro
 
 **Product Engineer @ [Promobi Technologies](https://www.promobitech.com/)** (Jun 2023 – Present)
 
-Building the macOS and iOS clients for [Scalefusion](https://scalefusion.com), a leading MDM platform, and [NuovoPay](https://www.nuevopay.com/), a device financing risk management tool.
+Building the macOS and iOS clients for [Scalefusion](https://scalefusion.com), a leading MDM platform, and [NuovoPay](https://nuovopay.com), a device financing risk management tool.
 
 - Built a device and application control system using Apple's Endpoint Security framework
 - Designed a custom macOS login window with location, network, and time-based access controls
