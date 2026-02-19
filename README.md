@@ -2,7 +2,7 @@
 
 **Product Engineer** · **Apple Platform Specialist** · **Building Secure, Scalable Systems**
 
-[Portfolio](https://an01ku.github.io/portfolio) • [LinkedIn](https://www.linkedin.com/in/an01ku/) • [LeetCode](https://leetcode.com/u/AN01KU/) • [Email](mailto:ankush.ganesh@outlook.com)
+[Portfolio](https://an01ku.github.io/) • [LinkedIn](https://www.linkedin.com/in/an01ku/) • [LeetCode](https://leetcode.com/u/AN01KU/) • [Email](mailto:ankush.ganesh@outlook.com)
 
 ---
 
