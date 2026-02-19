@@ -1,5 +1,3 @@
-UW PICO 5.09                                                                      File: /Users/ankushganesh/Ankush/GitHub/AN01KU/README.md
-
 # Ankush Ganesh
 
 **Product Engineer** · **Apple Platform Specialist** · **Building Secure, Scalable Systems**
