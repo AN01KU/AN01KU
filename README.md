@@ -1,78 +1,48 @@
-# 👋 Hi, I'm Ankush Ganesh
+# Ankush Ganesh
 
-I'm a Software Development Engineer passionate about building tools and platforms that simplify enterprise workflows, secure devices, and reduce IT overhead. I work extensively on **macOS and iOS**, blending system-level programming with clean, modular UI/UX development.
+**Product Engineer** · **Apple Platform Specialist** · **Building Secure, Scalable Systems**
 
----
-
-## 💼 Current Role
-
-### Associate Product Engineer @ [Promobi Technologies](https://www.promobitech.com/) (Jun 2023 – Present)
-
-Working on [**Scalefusion**](https://scalefusion.com), a leading MDM solution, and its internal products:
-
-- 🔒 Developed macOS and iOS agents to help IT admins monitor and manage enterprise devices.
-- 🧱 Built a device/app blocker using the Endpoint Security framework (Veltar) — reduced malware threats by 60%.
-- 🚀 Automated updates for 500+ apps via **Installomator**, saving hours of manual effort.
-- 🔐 Designed **OneID**: a custom login window with location/network/time-based access controls.
-- 🧑‍💻 Created an **Admin On-Demand** module for temporary admin rights, with real-time session tracking.
-- 📱 Built and maintained the macOS client for **NuovoPay**, a device financing risk management tool.
+[Portfolio](https://an01ku.github.io/portfolio) • [LinkedIn](https://www.linkedin.com/in/an01ku/) • [Leet$
 
 ---
 
-## 🚀 What I Do
+### What I Do
 
-### 🔐 Endpoint Security & Device Management
-- 🖥️ macOS/iOS device control through Scalefusion MDM and custom tools.
-- 🧱 Real-time threat mitigation with Apple’s ES Framework.
-- 🔐 Context-aware login and access modules for secure enterprise environments.
+I build macOS and iOS products used by enterprises to manage, secure, and control their device fleets. My$
 
-### 💼 Enterprise App Engineering
-- 🛠️ Swift and Objective-C development for scalable internal tools.
-- ⚙️ Launch agents, daemons, secure lock screens, and update systems.
-- 🧪 Codebase optimization using generics and modular design.
+### Core Expertise
 
-### 🛠 DevOps & Automation
-- 📦 Bash scripts for app packaging, notarization, and deployment.
-- 🔁 Network fault-tolerant systems with retry and throttling logic.
+**Languages:** Swift · Objective-C · Go · Python · JavaScript
+**Apple Frameworks:** SwiftUI · UIKit · Cocoa · SwiftData · Endpoint Security · WKWebView
+**Backend & Infra:** Go (Chi) · REST APIs · PostgreSQL · Docker · CI/CD · Bash
+**Tools:** Xcode · Git · JIRA · Postman · TestFlight · GitLab CI
 
 ---
 
-## 📖 Currently Learning
+### Currently Building
 
-- 🌱 **SwiftUI** for building declarative UIs across Apple platforms.
-- 🧪 **Swift Testing** strategies including unit testing and snapshot testing.
-- ⚙️ **CI/CD Pipelines** to automate building, testing, and deployment for iOS/macOS apps.
+**[Money Manager](https://github.com/AN01KU/Money-Manager-iOS)** — A full-stack personal finance app. Swi$
 
----
+### At Work
 
-## 🛠 Skills & Tools
+**Product Engineer @ [Promobi Technologies](https://www.promobitech.com/)** (Jun 2023 – Present)
 
-**Languages:** Swift, Objective-C, Python, JavaScript  
-**Frameworks:** SwiftUI, UIKit, Cocoa, Endpoint Security, Realm  
-**Dev Tools:** Xcode, Git, JIRA, Postman, TestFlight  
-**Systems:** macOS Internals, Daemons, Launch Agents, REST APIs  
+Building the macOS and iOS clients for [Scalefusion](https://scalefusion.com), a leading MDM platform, an$
 
----
-
-## 📚 Education
-
-🎓 **B.Tech in Computer Science**  
-Symbiosis Institute of Technology, Pune (2019–2023)  
-GPA: 7.64/10
+- Built a device and application control system using Apple's Endpoint Security framework
+- Designed a custom macOS login window with location, network, and time-based access controls
+- Automated update delivery for 500+ macOS applications
+- Set up CI/CD pipelines for automated builds, testing, and deployment
 
 ---
 
-## 📝 Publications
+### Publication
 
-**🔗 Secure Voting Using Ethereum & Smart Contracts**  
-A decentralized voting model to improve transparency and accessibility in digital elections.  
-[Read it here →](https://www.mdpi.com/2571-5577/6/4/70)
-
----
-
-## 🌐 Find Me Online
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankush-g-0aab86134)
-- 📧 [Email](mailto:masterankush0115@gmail.com)
+**[Secure Voting Using Ethereum & Smart Contracts](https://www.mdpi.com/2571-5577/6/4/70)**
+A decentralized voting model to improve transparency and accessibility in digital elections. Published in$
 
 ---
+
+### Education
+
+**B.Tech, Computer Science** — Symbiosis Institute of Technology, Pune (2019–2023)
