@@ -14,7 +14,7 @@ I build macOS and iOS products used by enterprises to manage, secure, and contro
 
 **Languages:** Swift · Objective-C · Go · Python · JavaScript
 **Apple Frameworks:** SwiftUI · UIKit · Cocoa · SwiftData · Endpoint Security · WKWebView
-**Backend & Infra:** Go (Chi) · REST APIs · PostgreSQL · Docker · CI/CD · Bash
+**Backend & Infra:** Go · REST APIs · PostgreSQL · Docker · CI/CD · Bash
 **Tools:** Xcode · Git · JIRA · Postman · TestFlight · GitLab CI
 
 ---
