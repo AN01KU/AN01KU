@@ -15,10 +15,6 @@ I build system-level software on Apple platforms for enterprise security — end
 
 {{CORE_EXPERTISE}}
 
-### Hobbies
-
-{{HOBBIES}}
-
 ---
 
 ### At Work

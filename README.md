@@ -12,13 +12,9 @@ I build system-level software on Apple platforms for enterprise security — end
 
 ### Core Expertise
 
-**Languages:** Swift · Objective-C · Go · Python · JavaScript
-**Core Subjects:** Data Structures & Algorithms · System Design · Concurrency & Multithreading · Operating Systems · Networking · Database Management
-**Backend & Infra:** Go · REST APIs · PostgreSQL · Docker · CI/CD · Bash
-
-### Hobbies
-
-Tech & Building Setups · Networking, Homelab & Self-Hosting · Gaming · Football · Biking · F1 · Anime · Music and Piano · Travel & Exploration
+- **Languages:** Swift · Objective-C · Go · Python · JavaScript
+- **Core Subjects:** Data Structures & Algorithms · System Design · Concurrency & Multithreading · Operating Systems · Networking · Database Management
+- **Backend & Infra:** Go · REST APIs · PostgreSQL · Docker · CI/CD · Bash
 
 ---
 

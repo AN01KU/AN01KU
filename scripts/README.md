@@ -9,7 +9,6 @@
 | Name, title, company, email | `profile.env` → `site-config.json` |
 | Portfolio, LinkedIn, LeetCode links | `social.env` → `site-config.json` |
 | Core Expertise section | `data/skills.json` (`languages`, `core-subjects`, `backend-infra` only) |
-| Hobbies | `data/hobbies.json` |
 | Publication title, URL, description | `data/publications.json` |
 | Education (B.Tech entry) | `data/education.json` (`id: btech-cs`) |
 

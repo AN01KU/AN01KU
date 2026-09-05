@@ -40,7 +40,6 @@ LEETCODE_URL="$(jq -r '.social.leetcodeUrl' "$SITE_CONFIG")"
 PUBLICATIONS="${CONFIG_DIR}/data/publications.json"
 EDUCATION="${CONFIG_DIR}/data/education.json"
 SKILLS="${CONFIG_DIR}/data/skills.json"
-HOBBIES="${CONFIG_DIR}/data/hobbies.json"
 
 PUBLICATION_TITLE="$(jq -r '.publications[0].title // empty' "$PUBLICATIONS")"
 PUBLICATION_URL="$(jq -r '.publications[0].url // empty' "$PUBLICATIONS")"
@@ -54,15 +53,13 @@ EDUCATION_END="$(jq -r '.education[] | select(.id == "btech-cs") | .endYear' "$E
 EDUCATION_YEARS="${EDUCATION_START}–${EDUCATION_END}"
 
 SKILLS_BLOCK="${TMP_DIR}/skills-block.txt"
-HOBBIES_LINE="${TMP_DIR}/hobbies-line.txt"
 # Profile README shows a subset of skills.json (portfolio uses all categories).
 jq -r '
   ["languages", "core-subjects", "backend-infra"] as $order |
   $order[] as $id |
   .categories[] | select(.id == $id) |
-  "**\(.name):** " + (.items | join(" · "))
+  "- **\(.name):** " + (.items | join(" · "))
 ' "$SKILLS" > "$SKILLS_BLOCK"
-jq -r '.hobbies | join(" · ")' "$HOBBIES" > "$HOBBIES_LINE"
 
 escape_sed() {
   printf '%s' "$1" | sed -e 's/[\/&]/\\&/g'
@@ -93,7 +90,6 @@ declare -A VALUES=(
   [EDUCATION_INSTITUTION]="$EDUCATION_INSTITUTION"
   [EDUCATION_CITY]="$EDUCATION_CITY"
   [EDUCATION_YEARS]="$EDUCATION_YEARS"
-  [HOBBIES]="$(cat "$HOBBIES_LINE")"
 )
 
 {
@@ -107,7 +103,7 @@ declare -A VALUES=(
 
     for key in FULL_NAME TITLE COMPANY COMPANY_URL EMAIL PORTFOLIO_URL LINKEDIN_URL LEETCODE_URL \
       PUBLICATION_TITLE PUBLICATION_URL PUBLICATION_DESCRIPTION \
-      EDUCATION_DEGREE EDUCATION_INSTITUTION EDUCATION_CITY EDUCATION_YEARS HOBBIES
+      EDUCATION_DEGREE EDUCATION_INSTITUTION EDUCATION_CITY EDUCATION_YEARS
     do
       if [[ "$line" == *"{{${key}}}"* ]]; then
         line="$(substitute_line "$line" "$key" "${VALUES[$key]}")"
