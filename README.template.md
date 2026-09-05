@@ -30,7 +30,6 @@ I build system-level software on Apple platforms for enterprise security — end
 ### Publication
 
 **[{{PUBLICATION_TITLE}}]({{PUBLICATION_URL}})**
-{{PUBLICATION_DESCRIPTION}}
 
 ---
 

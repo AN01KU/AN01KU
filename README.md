@@ -31,7 +31,6 @@ I build system-level software on Apple platforms for enterprise security — end
 ### Publication
 
 **[Secure Voting Website Using Ethereum and Smart Contracts](https://www.mdpi.com/2571-5577/6/4/70)**
-This paper introduces a blockchain-based voting model to enhance accessibility, security, and efficiency in the voting process. The research focuses on developing a robust and user-friendly voting system by leveraging the advantages of decentralized technology. The proposed model employs Ethereum as the underlying blockchain platform through an innovative and iterative approach.
 
 ---
 

@@ -9,7 +9,7 @@
 | Name, title, company, email | `profile.env` → `site-config.json` |
 | Portfolio, LinkedIn, LeetCode links | `social.env` → `site-config.json` |
 | Core Expertise section | `data/skills.json` (`languages`, `core-subjects`, `backend-infra` only) |
-| Publication title, URL, description | `data/publications.json` |
+| Publication title and URL | `data/publications.json` |
 | Education (B.Tech entry) | `data/education.json` (`id: btech-cs`) |
 
 **Stays in `README.template.md`:** bio, work experience bullets and dates.
