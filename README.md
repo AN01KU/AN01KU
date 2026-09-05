@@ -1,6 +1,6 @@
 # Ankush Ganesh
 
-**Software Engineer** · **Apple Platform Specialist** · **Building Secure, Scalable Systems**
+**Software Engineer**
 
 [Portfolio](https://an01ku.github.io/) • [LinkedIn](https://www.linkedin.com/in/an01ku/) • [LeetCode](https://leetcode.com/u/AN01KU/) • [Email](mailto:ankush.ganesh@outlook.com)
 
@@ -13,10 +13,12 @@ I build system-level software on Apple platforms for enterprise security — end
 ### Core Expertise
 
 **Languages:** Swift · Objective-C · Go · Python · JavaScript
-**Apple Frameworks:** SwiftUI · UIKit · Cocoa · SwiftData · Endpoint Security · WKWebView
-**Security:** Data Loss Prevention (DLP) · Data Security Posture Management (DSPM) · Endpoint Security · Enterprise Data Security
+**Core Subjects:** Data Structures & Algorithms · System Design · Concurrency & Multithreading · Operating Systems · Networking · Database Management
 **Backend & Infra:** Go · REST APIs · PostgreSQL · Docker · CI/CD · Bash
-**Tools:** Xcode · Git · JIRA · Postman · TestFlight · GitLab CI
+
+### Hobbies
+
+Tech & Building Setups · Networking, Homelab & Self-Hosting · Gaming · Football · Biking · F1 · Anime · Music and Piano · Travel & Exploration
 
 ---
 
@@ -28,19 +30,15 @@ I build system-level software on Apple platforms for enterprise security — end
 - Building DLP capabilities to detect, monitor, and prevent sensitive data exfiltration across endpoint activity
 - Working on DSPM capabilities to improve visibility into sensitive data, its movement, and associated security risks
 
-**Previously — Product Engineer @ [Promobi Technologies](https://www.promobitech.com/)** (Jun 2023 – August 2026)
-
-- Built macOS and iOS clients for [Scalefusion](https://scalefusion.com) (MDM) and [NuovoPay](https://nuovopay.com). Shipped endpoint security features, custom authentication flows, and CI/CD pipelines for 500+ macOS applications.
-
 ---
 
 ### Publication
 
-**[Secure Voting Using Ethereum & Smart Contracts](https://www.mdpi.com/2571-5577/6/4/70)**
-A decentralized voting model to improve transparency and accessibility in digital elections. Published in MDPI.
+**[Secure Voting Website Using Ethereum and Smart Contracts](https://www.mdpi.com/2571-5577/6/4/70)**
+This paper introduces a blockchain-based voting model to enhance accessibility, security, and efficiency in the voting process. The research focuses on developing a robust and user-friendly voting system by leveraging the advantages of decentralized technology. The proposed model employs Ethereum as the underlying blockchain platform through an innovative and iterative approach.
 
 ---
 
 ### Education
 
-**B.Tech, Computer Science** — Symbiosis Institute of Technology, Pune (2019–2023)
+**B.Tech (Computer Science)** — Symbiosis Institute of Technology, Pune (2019–2023)

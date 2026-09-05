@@ -1,0 +1,36 @@
+name: Sync README from shared-config
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile README
+        uses: actions/checkout@v4
+
+      - name: Checkout shared-config
+        uses: actions/checkout@v4
+        with:
+          repository: AN01KU/shared-config
+          ref: master
+          token: ${{ secrets.SHARED_CONFIG_TOKEN }}
+          path: shared-config
+
+      - name: Build README
+        run: |
+          sudo apt-get update && sudo apt-get install -y jq
+          bash scripts/build-readme.sh shared-config
+          rm -rf shared-config
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync README from shared-config"
+          file_pattern: README.md
