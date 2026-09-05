@@ -30,7 +30,7 @@ I build system-level software on Apple platforms for enterprise security — end
 
 **Previously — Product Engineer @ [Promobi Technologies](https://www.promobitech.com/)** (Jun 2023 – August 2026)
 
-Built macOS and iOS clients for [Scalefusion](https://scalefusion.com) (MDM) and [NuovoPay](https://nuovopay.com). Shipped endpoint security features, custom authentication flows, and CI/CD pipelines for 500+ macOS applications.
+- Built macOS and iOS clients for [Scalefusion](https://scalefusion.com) (MDM) and [NuovoPay](https://nuovopay.com). Shipped endpoint security features, custom authentication flows, and CI/CD pipelines for 500+ macOS applications.
 
 ---
 
